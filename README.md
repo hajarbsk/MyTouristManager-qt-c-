@@ -1,0 +1,1 @@
+# MyTouristManager-qt-c++
